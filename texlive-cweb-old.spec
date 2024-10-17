@@ -3,7 +3,7 @@ Version:	49271
 Release:	2
 Summary:	CWEB system
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cweb-old
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cweb-old
 License:	distributable
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cweb-old.r%{version}.tar.xz
 BuildArch:	noarch
